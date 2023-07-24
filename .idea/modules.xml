@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract Truu Tuong/Abstract Truu Tuong.iml" filepath="$PROJECT_DIR$/Abstract Truu Tuong/Abstract Truu Tuong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai tap Quan ly Sach/Bai tap Quan ly Sach.iml" filepath="$PROJECT_DIR$/Bai tap Quan ly Sach/Bai tap Quan ly Sach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Equales Hascode/Equales Hascode.iml" filepath="$PROJECT_DIR$/Equales Hascode/Equales Hascode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetSetjava/GetSetjava.iml" filepath="$PROJECT_DIR$/GetSetjava/GetSetjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Huong_Doi_Tuong_OOP/Huong_Doi_Tuong_OOP.iml" filepath="$PROJECT_DIR$/Huong_Doi_Tuong_OOP/Huong_Doi_Tuong_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java 2023.iml" filepath="$PROJECT_DIR$/.idea/Java 2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ke thua OOP/Ke thua OOP.iml" filepath="$PROJECT_DIR$/Ke thua OOP/Ke thua OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mutable_Immutable/Mutable_Immutable.iml" filepath="$PROJECT_DIR$/Mutable_Immutable/Mutable_Immutable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Object/Object.iml" filepath="$PROJECT_DIR$/Object/Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overloading/Overloading.iml" filepath="$PROJECT_DIR$/Overloading/Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Overriding/Overriding.iml" filepath="$PROJECT_DIR$/Overriding/Overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Random_Number_Date/Random_Number_Date.iml" filepath="$PROJECT_DIR$/Random_Number_Date/Random_Number_Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/Scanner/Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+    </modules>
+  </component>
+</project>
